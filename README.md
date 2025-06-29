@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Rohan Morajkar
 
-<!--
-**Rohan-Morajkar/Rohan-Morajkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BSc IT | 2025 Graduate**  
+📊 **Aspiring Data Analyst** | Passionate about turning raw data into actionable insights
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Skills & Tools
+
+- **Data Analysis**: SQL (incl. MySQL), Excel, Power BI, Python (Pandas, NumPy, Matplotlib)
+- **Data Visualization**: Power BI, Excel Charts, Matplotlib
+- **Database Management**: Writing complex SQL queries, data extraction & transformation
+- **Programming**: Python for data cleaning, EDA, and reporting
+
+---
+
+## 🔍 What I'm Looking For
+
+🎯 Entry-level roles in Data Analysis  
+🌱 I'm currently learning how to build dynamic dashboards and automate data workflows.
+
+---
+
+## 📂 Featured Projects
+
+> *I’m actively working on uploading and documenting my projects. Stay tuned!*
+
+- 📈 **Retail Sales Dashboard** (Power BI & Excel)  
+- 📊 **Customer Churn Analysis** (Python + SQL)  
+- 🧠 **Self-Driving Car with Reinforcement Learning** (Python, TensorFlow, Pygame)
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 Email: [rohan.morajkar.it@gmail.com](mailto:rohan.morajkar.it@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/rohanmorajkar](https://www.linkedin.com/in/rohanmorajkar)
+
+---
+
+_Thanks for visiting my profile! I'm open to collaboration and new opportunities in the data field._
