@@ -1,41 +1,35 @@
-# 👋 Hi, I'm Rohan Morajkar
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"/>
+</p>
 
-🎓 **BSc IT | 2025 Graduate**  
-📊 **Aspiring Data Analyst** | Passionate about turning raw data into actionable insights
+<h1 align="center">Hi, I'm Rohan Morajkar 👋</h1>
+<p align="center">🎓 BSc IT | Aspiring Data Analyst | Turning data into insights</p>
 
----
 
-## 💼 Skills & Tools
+## 🧰 Tech Stack
 
-- **Data Analysis**: SQL (incl. MySQL), Excel, Power BI, Python (Pandas, NumPy, Matplotlib)
-- **Data Visualization**: Power BI, Excel Charts, Matplotlib
-- **Database Management**: Writing complex SQL queries, data extraction & transformation
-- **Programming**: Python for data cleaning, EDA, and reporting
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
----
+## 🚀 About Me
 
-## 🔍 What I'm Looking For
-
-🎯 Entry-level roles in Data Analysis  
-🌱 I'm currently learning how to build dynamic dashboards and automate data workflows.
-
----
-
-## 📂 Featured Projects
-
-> *I’m actively working on uploading and documenting my projects. Stay tuned!*
-
-- 📈 **Retail Sales Dashboard** (Power BI & Excel)  
-- 📊 **Customer Churn Analysis** (Python + SQL)  
-- 🧠 **Self-Driving Car with Reinforcement Learning** (Python, TensorFlow, Pygame)
-
----
+- 🎯 Looking for entry-level roles or internships in **Data Analysis**
+- 📊 I love exploring data patterns, solving business questions, and creating dashboards
+- 🌱 Currently learning **advanced Power BI** and **Python for automation**
+- 🤝 Open to collaborations on data-related projects
 
 ## 📫 Let's Connect!
 
-- 📧 Email: [rohan.morajkar.it@gmail.com](mailto:rohan.morajkar.it@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/rohanmorajkar](https://www.linkedin.com/in/rohanmorajkar)
+<p align="center">
+  <a href="mailto:rohan.morajkar.it@gmail.com"><img src="https://img.shields.io/badge/Email-rohan.morajkar.it@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rohanmorajkar/"><img src="https://img.shields.io/badge/LinkedIn-rohanmorajkar-blue?style=for-the-badge&logo=linkedin"/></a>
+</p>
 
----
 
-_Thanks for visiting my profile! I'm open to collaboration and new opportunities in the data field._
+<p align="center">Thanks for visiting my profile! 🚀</p>
+
